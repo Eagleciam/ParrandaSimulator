@@ -16,3 +16,8 @@ El ejercicio se realizó para la simulación de un grupo musical conformado por 
         /images/classDiagram.png
       )
 	  
+![Diagrama de casos de uso](
+        /images/UseCaseDiagram1.png
+      )
+	  
+	  
